@@ -1,0 +1,4 @@
+# 安全工具：luhn
+- insert:
+    - id: dsh-sec-luhn
+      name: "dsh-sec-luhn"

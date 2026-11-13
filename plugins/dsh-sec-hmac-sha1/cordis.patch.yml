@@ -1,0 +1,4 @@
+# 安全工具：hmac sha1
+- insert:
+    - id: dsh-sec-hmac-sha1
+      name: "dsh-sec-hmac-sha1"

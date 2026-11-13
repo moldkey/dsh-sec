@@ -1,0 +1,4 @@
+# 安全工具：password policy
+- insert:
+    - id: dsh-sec-password-policy
+      name: "dsh-sec-password-policy"

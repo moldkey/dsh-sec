@@ -1,0 +1,4 @@
+# 安全工具：totp
+- insert:
+    - id: dsh-sec-totp
+      name: "dsh-sec-totp"

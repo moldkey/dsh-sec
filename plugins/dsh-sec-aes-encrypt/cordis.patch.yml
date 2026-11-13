@@ -1,0 +1,4 @@
+# 安全工具：aes encrypt
+- insert:
+    - id: dsh-sec-aes-encrypt
+      name: "dsh-sec-aes-encrypt"

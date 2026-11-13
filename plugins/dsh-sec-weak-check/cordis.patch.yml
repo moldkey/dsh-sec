@@ -1,0 +1,4 @@
+# 安全工具：weak check
+- insert:
+    - id: dsh-sec-weak-check
+      name: "dsh-sec-weak-check"

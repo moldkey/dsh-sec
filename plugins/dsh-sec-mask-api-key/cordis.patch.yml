@@ -1,0 +1,4 @@
+# 安全工具：mask api key
+- insert:
+    - id: dsh-sec-mask-api-key
+      name: "dsh-sec-mask-api-key"

@@ -1,0 +1,4 @@
+# 安全工具：generate password
+- insert:
+    - id: dsh-sec-generate-password
+      name: "dsh-sec-generate-password"

@@ -1,0 +1,4 @@
+# 安全工具：password entropy
+- insert:
+    - id: dsh-sec-password-entropy
+      name: "dsh-sec-password-entropy"

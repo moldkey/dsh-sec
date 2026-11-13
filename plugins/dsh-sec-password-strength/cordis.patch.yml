@@ -1,0 +1,4 @@
+# 安全工具：password strength
+- insert:
+    - id: dsh-sec-password-strength
+      name: "dsh-sec-password-strength"

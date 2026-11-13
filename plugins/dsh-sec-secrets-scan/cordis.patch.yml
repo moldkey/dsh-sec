@@ -1,0 +1,4 @@
+# 安全工具：secrets scan
+- insert:
+    - id: dsh-sec-secrets-scan
+      name: "dsh-sec-secrets-scan"

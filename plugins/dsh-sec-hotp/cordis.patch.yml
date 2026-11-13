@@ -1,0 +1,4 @@
+# 安全工具：hotp
+- insert:
+    - id: dsh-sec-hotp
+      name: "dsh-sec-hotp"
